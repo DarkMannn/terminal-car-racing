@@ -1,0 +1,3 @@
+- [x] bootstrap project
+- [ ] prettify package.json
+- [ ] prettify README.md

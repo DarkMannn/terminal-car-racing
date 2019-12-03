@@ -1,0 +1,19 @@
+{
+    "name": "terminal-car-racing",
+    "version": "1.0.0",
+    "description": "Two player car racing game for terminal",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'Not Implemented'",
+        "start": "nodemon",
+        "build": "rm -rf ./build && tsc"
+    },
+    "devDependencies": {
+        "@types/node": "^12.12.14"
+    },
+    "keywords": [
+        "terminal"
+    ],
+    "author": "DarkMannn",
+    "license": "MIT"
+}

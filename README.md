@@ -1,4 +1,4 @@
-# terminal-car-racing
+# terminal-ping-pong
 
 To-do (or not to-do)
 

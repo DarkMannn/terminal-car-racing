@@ -13,6 +13,7 @@
         "noImplicitReturns": true,
         "noFallthroughCasesInSwitch": true,
         "resolveJsonModule": true,
-        "sourceMap": true
+        "sourceMap": true,
+        "downlevelIteration": true
     }
 }

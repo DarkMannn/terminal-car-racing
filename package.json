@@ -1,7 +1,7 @@
 {
-    "name": "terminal-car-racing",
+    "name": "terminal-ping-pong",
     "version": "1.0.0",
-    "description": "Two player car racing game for terminal",
+    "description": "Two player classic ping pong game",
     "main": "index.js",
     "scripts": {
         "test": "echo 'Not Implemented'",
@@ -15,5 +15,9 @@
         "terminal"
     ],
     "author": "DarkMannn",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "ansi-escapes": "^4.3.0",
+        "ansi-styles": "^4.2.0"
+    }
 }
